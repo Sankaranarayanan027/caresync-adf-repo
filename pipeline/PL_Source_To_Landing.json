@@ -31,6 +31,12 @@
 				}
 			}
 		],
+		"parameters": {
+			"Source_System_Name": {
+				"type": "string",
+				"defaultValue": "neon_postgres"
+			}
+		},
 		"annotations": []
 	}
 }
