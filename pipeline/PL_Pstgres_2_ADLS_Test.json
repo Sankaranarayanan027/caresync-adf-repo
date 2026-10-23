@@ -1,5 +1,5 @@
 {
-	"name": "PL_Pstgres_2_ADLS",
+	"name": "PL_Pstgres_2_ADLS_Test",
 	"properties": {
 		"activities": [
 			{
